@@ -1,0 +1,24 @@
+# Compiled Sources #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Debug Build #
+Debug/*
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.ds
+
+# Logs and Databases #
+*.log
+*.sql
+*.sqlite
